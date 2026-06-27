@@ -7,11 +7,20 @@ moderate listings, manage users and monitor transactions.
 
 ## Live URL
 
-> Set after deployment: `https://<your-app>.web.app`
+https://assignment-10-client-ten.vercel.app
 
-## Server Repository
+## Repositories
 
-> `https://github.com/<you>/property-rental-server`
+- Client: https://github.com/abellicose/assignment-10-client
+- Server: https://github.com/abellicose/assignment-10-server
+
+## Demo Credentials
+
+| Role | Email | Password |
+| --- | --- | --- |
+| Admin | admin@nestify-demo.com | Demo@1234 |
+| Owner | owner@nestify-demo.com | Demo@1234 |
+| Tenant | tenant@nestify-demo.com | Demo@1234 |
 
 ## Purpose
 
